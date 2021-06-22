@@ -1,4 +1,4 @@
-#print a left bottom triangle
+#left bottom triangle
 for i in range(5+1):
     for j in range(i):
         print("* ", end='')
