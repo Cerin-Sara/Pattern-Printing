@@ -1,4 +1,6 @@
 #left top triangle
+
+#alternatively
 # for i in range(5):
 #     for j in range(5,0,-1):
 #         if(i<j):
